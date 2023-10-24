@@ -4,7 +4,7 @@
 # Feuille de route Laravel :
 Défi du niveau débutant
 
-Ceci est une tâche pour le [Niveau débutant de la feuille de route Laravel] (https://github.com/Bmd-Technologies/Laravel-Roadmap-Learning-Path#beginner-level), avec l'objectif d'implémenter autant de sujets que possible.Ce dépôt est intentionnellement vide, avec seulement un fichier Readme.Votre tâche est de soumettre une Pull Request avec votre version de l'implémentation de la tâche, et votre PR peut être revue par quelqu'un de notre équipe, ou d'autres volontaires.## La tâche :Blog personnel simple
+Ceci est une tâche pour le [Niveau débutant de la feuille de route Laravel] (https://github.com/Bmd-Technologies/Laravel-Roadmap-Beginner-Level-Challenge), avec l'objectif d'implémenter autant de sujets que possible.Ce dépôt est intentionnellement vide, avec seulement un fichier Readme.Votre tâche est de soumettre une Pull Request avec votre version de l'implémentation de la tâche, et votre PR peut être revue par quelqu'un de notre équipe, ou d'autres volontaires.## La tâche :Blog personnel simple
 
 Vous devez créer un blog personnel avec seulement trois pages :- Page d'accueil :Liste d'articles- Page d'article- Une page de texte statique comme "À propos de moi"
 
@@ -18,7 +18,7 @@ Il doit également y avoir un mécanisme de connexion (mais pas de registre) per
 
 -----
 
-## Fonctionnalités à mettre en œuvreVoici la [liste des fonctionnalités de la feuille de route](https://github.com/Bmd-Technologies/Laravel-Roadmap-Learning-Path#beginner-level) que vous devez essayer d'implémenter dans votre code :
+## Fonctionnalités à mettre en œuvreVoici la [liste des fonctionnalités de la feuille de route](https://github.com/Bmd-Technologies/Laravel-Roadmap-Beginner-Level-Challenge) que vous devez essayer d'implémenter dans votre code :
 
 **Routage et contrôleurs :
 Notions de base**	
