@@ -4,7 +4,7 @@
 # Feuille de route Laravel :
 Défi du niveau débutant
 
-Ceci est une tâche pour le [Niveau débutant de la feuille de route Laravel] (https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path#beginner-level), avec l'objectif d'implémenter autant de sujets que possible.Ce dépôt est intentionnellement vide, avec seulement un fichier Readme.Votre tâche est de soumettre une Pull Request avec votre version de l'implémentation de la tâche, et votre PR peut être revue par quelqu'un de notre équipe, ou d'autres volontaires.## La tâche :Blog personnel simple
+Ceci est une tâche pour le [Niveau débutant de la feuille de route Laravel] (https://github.com/Bmd-Technologies/Laravel-Roadmap-Learning-Path#beginner-level), avec l'objectif d'implémenter autant de sujets que possible.Ce dépôt est intentionnellement vide, avec seulement un fichier Readme.Votre tâche est de soumettre une Pull Request avec votre version de l'implémentation de la tâche, et votre PR peut être revue par quelqu'un de notre équipe, ou d'autres volontaires.## La tâche :Blog personnel simple
 
 Vous devez créer un blog personnel avec seulement trois pages :- Page d'accueil :Liste d'articles- Page d'article- Une page de texte statique comme "À propos de moi"
 
